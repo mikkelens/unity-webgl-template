@@ -65,3 +65,4 @@ Assets/StreamingAssets/
 # Crashlytics generated file
 crashlytics-build.properties
 
+*.meta
